@@ -3,7 +3,9 @@ This is the jar file, email chijuncs@gmail.com for source code. Thank you
 
 Requirement: Java environment (Program created with JDK 1.8.0_152)
 JDK link:http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 Chrome: https://www.google.com/chrome/browser/desktop/index.html
+
 Chrome driver:https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 double click RU2Go.jar
@@ -28,6 +30,5 @@ Click Get Google button, the program will find your schedule on Webreg and Updat
 Created by: Chijun Sha              
 Email: chijuncs@gmail.com
 
-Note: You need get chromedrive link:https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 
