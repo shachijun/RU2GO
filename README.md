@@ -1,8 +1,13 @@
 # RU2GO
 This is the jar file, email chijuncs@gmail.com for source code. Thank you
 
-Requirement: Java environment (Program created with JDK 1.8.0_152, link:http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) double click RU2Go.jar
-Input the location or chromedriver (ex. /Users/***/Downloads/chromedriver)
+Requirement: Java environment (Program created with JDK 1.8.0_152)
+JDK link:http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Chrome: https://www.google.com/chrome/browser/desktop/index.html
+Chrome driver:https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+double click RU2Go.jar
+Input the location or chromedriver (ex. /Users/***/Downloads/chromedriver  or:/Users/***/Downloads/chromedriver.exe)
 
 
 Get class (register the class)
