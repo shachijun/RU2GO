@@ -13,6 +13,6 @@ Click Get Google button, the program will find your schedule on Webreg and Updat
 Created by: Chijun Sha
 Email: chijuncs@gmail.com
 
-Note:you need get chromedrive link:https://sites.google.com/a/chromium.org/chromedriver/downloads
+Note: You need get chromedrive link:https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 
