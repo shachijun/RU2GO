@@ -1,7 +1,6 @@
 # RU2GO
 This is the jar file, email chijuncs@gmail.com for source code. Thank you
 
- In the zip file, have 2 file: chromedriver and RU2Go.jar.
 Requirement: Java environment (Program created with JDK 1.8.0_152) double click RU2Go.jar
 Input the location or chromedriver (ex. /Users/***/Downloads/chromedriver)
 Get class (register the class)
