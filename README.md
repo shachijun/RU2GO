@@ -18,6 +18,8 @@ Note: you cant over max the credit.
 Get Google (Update Google calendar from Webreg)
 input requirement: NETID, RU password, Gmail (email address), Google Password, Start Date(mm/dd/year), End Date(mm/dd/year)
 Click Get Google button, the program will find your schedule on Webreg and Update to Google Calendar in your account.
+
+
 Created by: Chijun Sha
 Email: chijuncs@gmail.com
 
