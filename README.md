@@ -8,7 +8,7 @@ Chrome: https://www.google.com/chrome/browser/desktop/index.html
 
 GoogleDriver:https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-double click RU2Go.jar
+Double click RU2Go.jar
 Input the location or chromedriver (ex. /Users/***/Downloads/chromedriver  or:/Users/***/Downloads/chromedriver.exe)
 
 
