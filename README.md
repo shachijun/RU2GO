@@ -20,7 +20,7 @@ input requirement: NETID, RU password, Gmail (email address), Google Password, S
 Click Get Google button, the program will find your schedule on Webreg and Update to Google Calendar in your account.
 
 
-Created by: Chijun Sha
+Created by: Chijun Sha              
 Email: chijuncs@gmail.com
 
 Note: You need get chromedrive link:https://sites.google.com/a/chromium.org/chromedriver/downloads
