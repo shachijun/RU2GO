@@ -1,7 +1,7 @@
 # RU2GO
 This is the jar file, email chijuncs@gmail.com for source code. Thank you
 
-Requirement: Java environment (Program created with JDK 1.8.0_152) double click RU2Go.jar
+Requirement: Java environment (Program created with JDK 1.8.0_152, link:http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) double click RU2Go.jar
 Input the location or chromedriver (ex. /Users/***/Downloads/chromedriver)
 Get class (register the class)
 input requirement: NETID, RU password, Department (ex. 198), Subject (ex. 213)
