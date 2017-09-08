@@ -2,7 +2,7 @@
 This is the jar file, email chijuncs@gmail.com for source code. Thank you
 
 Requirement: Java environment (Program created with JDK 1.8.0_152)
-JDK link:http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+JDK link:http://jdk.java.net/8/
 
 Chrome: https://www.google.com/chrome/browser/desktop/index.html
 
